@@ -25,7 +25,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-<a href="./sreenshoot.jpg"></a>
+<a href="./sreenshoot.jpg">Screenshot</a>
 
 ### Links
 
